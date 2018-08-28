@@ -1,0 +1,8 @@
+{
+  "firstName":"Taylor",
+  "lastName":"Botts",
+  "displayHandle":"dat boi",
+  "posts" : [ "Yerrrrr", "i'm bored..", "what's up world" ],
+  "age" : 25,
+  "active" : true
+}
