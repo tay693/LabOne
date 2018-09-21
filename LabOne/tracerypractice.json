@@ -1,0 +1,78 @@
+{
+	"name": [
+		"Mike",
+		"Ashley",
+		"Caleb",
+		"Andre",
+		"Johnny",
+		"Cindy"
+	],
+	"occupation": [
+		"police officer",
+		"web developer",
+		"lawyer",
+		"surgeon",
+		"engineer",
+		"entrepeneur"
+	],
+	"always": [
+		"always",
+		"constantly",
+		"continuosly",
+		"never",
+		"rarely",
+		"sometimes",
+		"often",
+		"seldom"
+	],
+	"expecting":[
+		"expecting",
+		"anticipating",
+		"waiting for",
+		"awaiting"
+	],
+	"anything":[
+		"anything",
+		"something",
+		"nothing",
+		"at least one thing"
+	],
+	"bad":[
+		"bad",
+		"good",
+		"awful",
+		"terrible",
+		"exciting",
+		"refreshing"
+	],
+	"until":[
+		"Until",
+		"But",
+		"Eventually",
+		"Finally, "
+	],
+	"didthis":[
+		"won the lottery!",
+		"died and came back to life three days later.",
+		"took a FREE trip to the Bahamas!",
+		"received a small loan of 5 million dollars. Interest free!"
+	],
+	"clickbait":[
+		"Find out how",
+		"Learn how they did it",
+		"Sign up now",
+		"You'll never guess how easy it was",
+		"Wait until you hear what happens next"
+	],
+	"website":["dogwater.com",
+		"pennywiseclownschool.edu",
+		"gooqle.co",
+		"bankofnigeria.net"
+	],
+	"page":[
+		"signup/",
+		"notavirus.php",
+		"congratulationsyoujustwon.html"
+	],
+	"origin": ["#name#, #occupation.a#, was #always# #expecting# #anything# #bad# to happen. #Until# one day they #didthis#. #clickbait#! <br>http://#website#/#page#"]
+}
